@@ -5,14 +5,14 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class First {
-    private String searchWord,addWord,addwordFromInput;    
-    private int post ;
-    private boolean chek = false;
+    static private String searchWord,addWord,addwordFromInput;    
+   static private int post ;
+    static private boolean chek = false;
 
   
     
     
-    public void searchTitel()
+    public static void searchTitel()
     {
          ArrayList <String> doc = new ArrayList <String>();
      
@@ -37,7 +37,7 @@ public class First {
      doc.add("acces modifier");     doc.add("Page 40");
      doc.add("static");     doc.add("Page 45");
      doc.add("overloding");     doc.add("Page 49");
-     doc.add("overiding");     doc.add("Page 51");
+     doc.add("overriding");     doc.add("Page 51");
      doc.add("final");     doc.add("Page 52");
      doc.add("final static");     doc.add("Page 54");
      doc.add("composition");     doc.add("Page 39");
