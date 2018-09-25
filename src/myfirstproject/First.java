@@ -20,6 +20,7 @@ public class First {
      doc.add("switch");     doc.add("Page 12");
      doc.add("if");     doc.add("Page 12");
      doc.add("infinite loop");     doc.add("Page 14");
+     doc.add("while");     doc.add("15");
      doc.add("do while");     doc.add("15");
      doc.add("chart");     doc.add("Page 17");
      doc.add("arrays");     doc.add("Page 21");
@@ -51,6 +52,7 @@ public class First {
      doc.add("recursive methode");     doc.add("Page 84");
      doc.add("abstract");     doc.add("Page 89");
      doc.add("interface");     doc.add("Page 95");
+     doc.add("type casting");     doc.add("Page 104");
      doc.add("empty interface");     doc.add("Page 108");
      doc.add("enum");     doc.add("Page 110");     
      doc.add("instans of");     doc.add("Page 126");
