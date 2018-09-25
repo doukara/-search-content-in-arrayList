@@ -2,7 +2,7 @@
  
 For this  project : 
 this is small and simple project  for search content in arrayList 
-you can use it if you have a book whith lots of informations 
+you can use it if you have a book with lots of informations 
 - write number 1,2,3.. on page [manually whit pen]
 - add in project the titel and page number 
 and later you can search derictly on arraylist the titel and he you give the page number 
